@@ -48,5 +48,7 @@ Répondez à ces questions dans la section spécifiée dans reddit_weekends.ipyn
 Laquelle des quatre transformations suggérées vous rapproche le plus de satisfaire les hypothèses d'un test T ?
 Parmi les quatre approches, laquelle réussit le mieux à répondre à la question initiale : "y a-t-il un nombre différent de commentaires Reddit publiés en semaine et le week-end ?" Pourquoi ?
 
+- **Reddit Weekends** est basé sur le cours de science des données de Greg Baker à SFU.
+
 
 
